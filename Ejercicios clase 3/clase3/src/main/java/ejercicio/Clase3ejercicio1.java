@@ -1,6 +1,6 @@
 package terceraclase;
 
-public class Ejercicio1 {
+public class Clase3ejercicio1 {
 	public static void main(String args[]) {
 		int cont = cantidad("Texto", 't');
 

@@ -1,6 +1,6 @@
 package clase3ejercicio1c;
 
-public class App 
+public class Clase3ejercicio1c
 {
     public static int sumarNumerosMayoresQueX(int[] numeros, int x) {
         int suma = 0;
